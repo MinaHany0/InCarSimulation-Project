@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "cfal96x64x16.h": "c",
+        "hw_ints.h": "c",
+        "hw_gpio.h": "c",
+        "stdint.h": "c",
+        "grlib.h": "c",
+        "rom.h": "c",
+        "interrupt.h": "c",
+        "sysctl.h": "c",
+        "hw_comp.h": "c",
+        "gpt.h": "c",
+        "lm393.h": "c",
+        "led.h": "c",
+        "can.h": "c",
+        "candriver.h": "c",
+        "hw_can.h": "c",
+        "pin_map.h": "c",
+        "icu.h": "c",
+        "gpio.h": "c",
+        "hw_memmap.h": "c",
+        "ultrasonic.h": "c",
+        "adc.h": "c"
+    }
+}

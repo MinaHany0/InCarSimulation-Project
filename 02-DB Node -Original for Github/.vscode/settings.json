@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "cfal96x64x16.h": "c",
+        "hw_ints.h": "c",
+        "hw_gpio.h": "c",
+        "stdint.h": "c",
+        "grlib.h": "c",
+        "rom.h": "c",
+        "interrupt.h": "c",
+        "sysctl.h": "c",
+        "hw_comp.h": "c"
+    }
+}

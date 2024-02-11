@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "cfal96x64x16.h": "c",
+        "hw_ints.h": "c",
+        "hw_gpio.h": "c",
+        "stdint.h": "c",
+        "grlib.h": "c",
+        "rom.h": "c",
+        "interrupt.h": "c",
+        "sysctl.h": "c",
+        "hw_comp.h": "c",
+        "dc_motor.h": "c",
+        "led.h": "c",
+        "dio.h": "c",
+        "tm4c123gh6pm_registers.h": "c",
+        "hw_memmap.h": "c",
+        "candriver.h": "c",
+        "fan.h": "c",
+        "pwm_types.h": "c",
+        "port.h": "c",
+        "pwm.h": "c"
+    }
+}
